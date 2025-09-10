@@ -20,3 +20,8 @@ print(z)
 x=input("Enter the Value:: ")
 print(x)
 print(type(x))
+
+# Evalute the Value
+x=eval(input("Enter the Value:: "))
+print(x)    
+print(type(x))
